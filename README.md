@@ -34,19 +34,3 @@ https://github.com/user-attachments/assets/971ee221-76df-4c29-b07a-b1ac756fc3a8
 
 
 
-## Repository Structure
-
-esp32-speed-detection-advanced/
-│
-├── README.md                         # Project documentation
-├── code/
-│   └── esp32_speed_detection.ino     # ESP32 source code
-├── images/
-│   ├── prototype.jpg                 # Physical prototype
-│   ├── lcd_display.jpg               # LCD running result
-│   ├── wokwi_simulation.png          # Wokwi simulation
-│   
-├── docs/
-│   ├── circuit_diagram.png           # Circuit diagram
-│   └── system_architecture.png       # System architecture
-└── LICENSE
